@@ -122,6 +122,10 @@ mp = manufacturedp * sellingprice
 
 print(sp-mp)
 
+print()
+
+print("THANKS FOR USING THE PROGRAM")
+
 
 
 
